@@ -1,3 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=an-vadim-an)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=an-vadim-an&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=an-vadim-an&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
