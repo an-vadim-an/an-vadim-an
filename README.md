@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=an-vadim-an)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=an-vadim-an" alt="Profile views" />
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=an-vadim-an&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-vadim-an&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
